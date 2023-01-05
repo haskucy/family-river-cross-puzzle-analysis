@@ -1,4 +1,4 @@
-# Family-River-Crossing-Puzzle-Analysis
+# Family River Crossing Puzzle Analysis
 
 ![The Puzzle](family_river_crossing_puzzle_image.jpg)
 
