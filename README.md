@@ -1,5 +1,5 @@
 # Family River Crossing Puzzle Analysis
-"Family River Crossing Puzzle is a game in which players work together to cross a river using a raft, following rules and minimizing trips. This repository analyzes the smallest number of moves and ways to solve the puzzle."
+Family River Crossing Puzzle is a game in which players work together to cross a river using a raft, following rules and minimizing trips. This repository analyzes the smallest number of moves and ways to solve the puzzle.
 
 ![The Puzzle](family_river_crossing_puzzle_image.jpg)
 
