@@ -1,6 +1,7 @@
-# Family-River-Crossing-Puzzle-Analysis
+# Family River Crossing Puzzle Analysis
+Family River Crossing Puzzle is a game in which players work together to cross a river using a raft, following rules and minimizing trips. This repository analyzes the smallest number of moves and ways to solve the puzzle.
 
-!(The Puzzle)[family_river_crossing_puzzle_image.jpg]
+![The Puzzle](family_river_crossing_puzzle_image.jpg)
 
 ## The Puzzle
 Family River Crossing Puzzle is a game in which a family consisting of a mother, father, two daughters, and two sons, along with a cop and a criminal, must all cross a river using a raft. The raft is the only means of transportation available, and it has a limited capacity of two people at a time. The challenge of the game is to figure out the optimal way to get everyone across the river while following the rules and minimizing the number of trips required. The puzzle can be played by a single person or by a group, with each player taking on the role of one of the characters and working together to come up with a solution.
@@ -17,5 +18,5 @@ There are five rules that must be followed when solving the puzzle:
 
 ## The Analysis
 This Repository serves as a working analysis to solve the following question:
-1. How what is the smallest number of moves do you need to solve this puzzle
+1. What is the smallest number of moves do you need to solve this puzzle
 2. How many different way can you do to solve this puzzle
