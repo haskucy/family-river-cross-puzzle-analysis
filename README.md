@@ -20,3 +20,5 @@ There are five rules that must be followed when solving the puzzle:
 This Repository serves as a working analysis to solve the following question:
 1. What is the smallest number of moves do you need to solve this puzzle
 2. How many different way can you do to solve this puzzle
+
+## Lesson Learned
