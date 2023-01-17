@@ -14,7 +14,7 @@ There are five rules that must be followed when solving the puzzle:
 2. The father can not be left with any of the daughters unless the mother is present.
 3. The mother can not be left with any of the sons unless the father is present.
 4. The criminal can not stay with any family member unless the cop is present.
-5. Only the father, mother, and gcop know how to use the raft.
+5. Only the father, mother, and cop know how to use the raft.
 
 ## The Analysis
 This Repository serves as a working analysis to solve the following question:
