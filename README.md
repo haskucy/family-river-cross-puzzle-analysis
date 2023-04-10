@@ -1,4 +1,8 @@
 # Family River Crossing Puzzle Analysis
+
+## Notes
+> I'll be honest with you here, Right now i am busy on some other projects. I will pick this up again in July 2023
+
 Family River Crossing Puzzle is a game in which players work together to cross a river using a raft, following rules and minimizing trips. This repository analyzes the smallest number of moves and ways to solve the puzzle.
 
 ![The Puzzle](family_river_crossing_puzzle_image.jpg)
@@ -24,3 +28,5 @@ This Repository serves as a working analysis to solve the following question:
 
 ## Lesson Learned
 TBA
+
+
