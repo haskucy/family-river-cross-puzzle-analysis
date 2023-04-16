@@ -26,7 +26,11 @@ This Repository serves as a working analysis to solve the following question:
 2. How many different way can you do to solve this puzzle
 3. What can we infer from this game?
 
-## Lesson Learned
-TBA
+## Lesson Learned (TODO)
+
+### Some Key Insight
+* There are 8 different correct answer.
+* Each of them differs on how the kids moves.
+* Its a permutation on which kids moves first.
 
 
